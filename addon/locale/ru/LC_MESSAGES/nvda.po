@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfileDict\n"
+"POT-Creation-Date: 2019-05-07 11:59+0800\n"
+"PO-Revision-Date: 2019-05-07 12:02+0800\n"
+"Last-Translator: Kvark <kvark128@yandex.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\\..\\..\\..\\ProfileDict\n"
+
+#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:22
+msgid "&Profile dictionary..."
+msgstr "Словарь &профиля конфигурации..."
+
+#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:49
+msgid "Shows the NVDA profile dictionary dialog"
+msgstr "Вызывает словарь профиля конфигурации NVDA"
+
+#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:55
+msgid "Profile dictionary off"
+msgstr "Словарь профиля отключён"
+
+#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:58
+msgid "Profile dictionary on"
+msgstr "Словарь профиля включён"
+
+#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:62
+msgid "Turns profile dictionary on or off"
+msgstr "Включает или выключает словарь профиля конфигурации"
+
+#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:68
+msgid "default"
+msgstr "по умолчанию"
+
+#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:69
+#, python-format
+msgid "Profile dictionary for %s"
+msgstr "Словарь для профиля %s"
+
+#~ msgid "Configuration"
+#~ msgstr "Конфигурация"
