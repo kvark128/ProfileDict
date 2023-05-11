@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfileDict\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2023-05-12 05:39+0800\n"
+"PO-Revision-Date: 2023-05-12 05:44+0800\n"
+"Last-Translator: Kvark <kvark128@yandex.ru>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../../../ProfileDict\n"
+
+#: addon\globalPlugins\ProfileDict.py:33
+msgid "&Profile dictionary..."
+msgstr "&Profil sözlüğü..."
+
+#: addon\globalPlugins\ProfileDict.py:65
+msgid "Shows the NVDA profile dictionary dialog"
+msgstr "NVDA profil sözlüğü iletişim kutusunu gösterir"
+
+#: addon\globalPlugins\ProfileDict.py:69
+msgid "Turns profile dictionary on or off"
+msgstr "Profil sözlüğünü açar veya kapatır"
+
+#: addon\globalPlugins\ProfileDict.py:74
+msgid "Profile dictionary off"
+msgstr "Profil sözlüğü kapalı"
+
+#: addon\globalPlugins\ProfileDict.py:77
+msgid "Profile dictionary on"
+msgstr "Profil sözlüğü açık"
+
+#: addon\globalPlugins\ProfileDict.py:86
+msgid "default"
+msgstr "varsayılan"
+
+#: addon\globalPlugins\ProfileDict.py:87
+#, python-format
+msgid "Profile dictionary for %s"
+msgstr "%s için profil sözlüğü"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:23 buildVars.py:26
+msgid "Profile Dict"
+msgstr "Profil Sözlüğü"
+
+#~ msgid "Configuration"
+#~ msgstr "Конфигурация"
