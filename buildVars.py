@@ -23,7 +23,7 @@ addon_info = {
 	"addon_summary": _("Profile Dict"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description": _("""Profile Dict"""),
+	"addon_description": _("""Provides the ability to create speech dictionaries for different NVDA configuration profiles"""),
 	# version
 	"addon_version": "2023.04.18",
 	# Author(s)
