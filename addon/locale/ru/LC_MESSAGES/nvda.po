@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ProfileDict\n"
-"POT-Creation-Date: 2019-05-07 11:59+0800\n"
-"PO-Revision-Date: 2019-05-07 12:02+0800\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2023-05-12 06:22+0800\n"
+"PO-Revision-Date: 2023-05-12 06:25+0800\n"
 "Last-Translator: Kvark <kvark128@yandex.ru>\n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -15,34 +16,51 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: ..\\..\\..\\..\\ProfileDict\n"
 
-#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:22
+#: addon\globalPlugins\ProfileDict.py:33
 msgid "&Profile dictionary..."
 msgstr "Словарь &профиля конфигурации..."
 
-#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:49
+#: addon\globalPlugins\ProfileDict.py:65
 msgid "Shows the NVDA profile dictionary dialog"
 msgstr "Вызывает словарь профиля конфигурации NVDA"
 
-#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:55
-msgid "Profile dictionary off"
-msgstr "Словарь профиля отключён"
-
-#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:58
-msgid "Profile dictionary on"
-msgstr "Словарь профиля включён"
-
-#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:62
+#: addon\globalPlugins\ProfileDict.py:69
 msgid "Turns profile dictionary on or off"
 msgstr "Включает или выключает словарь профиля конфигурации"
 
-#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:68
+#: addon\globalPlugins\ProfileDict.py:74
+msgid "Profile dictionary off"
+msgstr "Словарь профиля отключён"
+
+#: addon\globalPlugins\ProfileDict.py:77
+msgid "Profile dictionary on"
+msgstr "Словарь профиля включён"
+
+#: addon\globalPlugins\ProfileDict.py:86
 msgid "default"
 msgstr "по умолчанию"
 
-#: ..\..\..\..\ProfileDict/globalPlugins/ProfileDict.py:69
+#: addon\globalPlugins\ProfileDict.py:87
 #, python-format
 msgid "Profile dictionary for %s"
 msgstr "Словарь для профиля %s"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Profile Dict"
+msgstr "Profile Dict"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid ""
+"Provides the ability to create speech dictionaries for different NVDA "
+"configuration profiles"
+msgstr ""
+"Предоставляет возможность создавать речевые словари для различных профилей "
+"конфигурации NVDA"
 
 #~ msgid "Configuration"
 #~ msgstr "Конфигурация"
