@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""Provides the ability to create speech dictionaries for different NVDA configuration profiles"""),
 	# version
-	"addon_version": "2023.12.18",
+	"addon_version": "2024.04.01",
 	# Author(s)
 	"addon_author": "Kvark <kvark128@yandex.ru>",
 	# URL for the add-on documentation support
